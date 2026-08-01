@@ -1,4 +1,0 @@
-My first line written by Python.
-Second line.
-Third line.
-This line was appended later.

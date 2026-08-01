@@ -1,3 +1,0 @@
-Learn Python basics.
-Build a small project.
-Contribute to open source.

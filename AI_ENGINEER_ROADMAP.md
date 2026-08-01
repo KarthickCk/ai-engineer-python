@@ -19,10 +19,10 @@ Legend: 🎯 = deliverable/project checkpoint · 📌 = don't-skip fundamental
 
 ### Week 2 — Git + web fundamentals
 - [x] Day 1: Command line basics (cd, ls, mkdir, mv). 📌
-- [ ] Day 2: Git: init, add, commit, log. Make a local repo.
-- [ ] Day 3: GitHub: push a repo, understand branches + PRs.
-- [ ] Day 4: How the web works: HTTP requests, JSON, status codes, APIs.
-- [ ] Day 5: Python `requests` — call a public API (weather/jokes), print results. Push to GitHub. 🎯
+- [x] Day 2: Git: init, add, commit, log. Make a local repo.
+- [x] Day 3: GitHub: push a repo, understand branches + PRs.
+- [x] Day 4: How the web works: HTTP requests, JSON, status codes, APIs.
+- [x] Day 5: Python `requests` — call a public API (weather/jokes), print results. Push to GitHub. 🎯
 
 ---
 
